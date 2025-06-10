@@ -4,7 +4,6 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-2.1.0-brightgreen?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-✨%20Complete-success?style=for-the-badge)
 ![Responsive](https://img.shields.io/badge/design-📱%20100%25%20Responsive-blue?style=for-the-badge)
 ![FreeCodeCamp](https://img.shields.io/badge/certification-🏆%20FreeCodeCamp-orange?style=for-the-badge)
@@ -21,12 +20,6 @@ This project was born during my journey through FreeCodeCamp's Responsive Web De
 
 ![Survey Form Demo](https://github.com/joaogalimberti/SURVEY-FORM/assets/106310095/0fb6e980-2b3f-4066-bfe6-2c41bb809424)
 
-<details>
-<summary>🎬 <strong>View Interactive Demo</strong></summary>
-
-*Coming soon: Animated GIF showing complete user experience*
-
-</details>
 
 ---
 
@@ -49,43 +42,6 @@ This project was born during my journey through FreeCodeCamp's Responsive Web De
 
 ---
 
-## 🚀 **Features That Make a Difference**
-
-<table>
-<tr>
-<td width="50%">
-
-### 📝 **Intuitive Interface**
-- ✅ Dynamic placeholder fields
-- ✅ Contextual icons
-- ✅ Subtle, meaningful animations
-- ✅ Real-time visual feedback
-
-</td>
-<td width="50%">
-
-### 🛡️ **Smart Validation**
-- ✅ Real-time validation
-- ✅ Personalized error messages
-- ✅ Common error prevention
-- ✅ Animated success confirmation
-
-</td>
-</tr>
-</table>
-
-### 🎯 **Form Elements**
-
-| Component | Purpose | Innovation |
-|-----------|---------|------------|
-| **Input Fields** | Text data collection | Auto-complete and smart formatting |
-| **Radio Buttons** | Single selection | Custom design with animations |
-| **Checkboxes** | Multiple selections | Clear visual states |
-| **Dropdown** | Organized options | Integrated search and filtering |
-| **Textarea** | Detailed feedback | Dynamic character counter |
-
----
-
 ## 🛠️ **Tech Arsenal**
 
 <div align="center">
@@ -94,7 +50,6 @@ This project was born during my journey through FreeCodeCamp's Responsive Web De
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
@@ -139,17 +94,14 @@ This project was born during my journey through FreeCodeCamp's Responsive Web De
 ### **Option 1: Full Experience**
 ```bash
 # Clone the repository
-git clone https://github.com/joaogalimberti/SURVEY-FORM.git
+git clone https://github.com/joaogalimberti/survey-form-freecodecamp.git
 
 # Navigate to directory
-cd SURVEY-FORM
+cd survey-form-freecodecamp
 
 # Open in your favorite browser
 open index.html
 ```
-
-### **Option 2: Quick Preview**
-🔗 [**Try It Now**](https://joaogalimberti.github.io/SURVEY-FORM/) *(Click here to test live)*
 
 ---
 
@@ -207,7 +159,6 @@ If this project helped you in any way or you simply liked the approach, consider
 
 <div align="center">
 
-**🚀 Next project:** *E-commerce Landing Page with React*
 
 *Follow my journey!*
 
