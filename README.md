@@ -137,7 +137,7 @@ Found something interesting? Have a suggestion for improvement? Or just want to 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaogalimberti)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaogalimberti)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaogalimberti@gmail.com)
 
 </div>
 
@@ -151,7 +151,7 @@ If this project helped you in any way or you simply liked the approach, consider
 
 > *This project represents more than code - it represents growth, learning, and the passion for creating things that matter. Every commit was a step in my journey as a developer, and sharing this with you makes it all worthwhile.*
 
-**Built with ❤️ by [João Galimberti](https://github.com/joaogalimberti)**
+**Code and design by [João Galimberti](https://github.com/joaogalimberti)**
 
 *Part of my Responsive Web Design journey - FreeCodeCamp | 2024*
 
